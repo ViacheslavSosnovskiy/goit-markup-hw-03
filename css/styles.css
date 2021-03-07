@@ -379,10 +379,6 @@ button {
 
 /* ==============  КНОПКИ портфолио  ============== */
 
-.section-buttons .container  {
-    background-color: teal;
-}
-
 .buttons-list {
     display: flex;
     text-align: center;
@@ -456,6 +452,5 @@ button {
 
 .section-works .container {
     padding-bottom: 94px;
-    background-color: chartreuse;
 }
 
