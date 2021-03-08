@@ -171,6 +171,7 @@ button {
     font-family: inherit;
     cursor: pointer;
     display: block;
+    border: none;
 }
 
 .section-hero button {
@@ -356,7 +357,7 @@ button {
 .buttons-list {
     display: flex;
     text-align: center;
-    padding-top: 180px;
+    padding-top: 94px;
     padding-bottom: 56px;
     justify-content: center;   
 }
