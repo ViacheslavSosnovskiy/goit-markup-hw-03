@@ -371,7 +371,7 @@ button {
 }
     
 .buttons-list .item:not(:last-child){
-    margin-right: 52px;
+    margin-right: 8px;
 }
 
 .buttons-list .button:hover,
